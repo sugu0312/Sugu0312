@@ -1,8 +1,22 @@
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F72FE5&random=false&width=435&lines=Hi!%F0%9F%91%8B+I'm+Suguresh.;Welcome+to+My+Git-Hub+Profile..!;Feel+Free+to+Explore+my+Projects;Don't+Hesitate+to+Reach+out+Me%2C;If+You+Have+Any+Questions+;or+Any+collaborations+in+mind)](https://git.io/typing-svg)
 # 💫 About Me:
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
-🔭 I’m currently working on Hibernate, Spring boot<br><br>🌱 I’m currently learning j2EE Frameworks<br><br>💬 Ask me about Java<br><br>📫 How to reach me suguchingudi@gmail.com<br><br>Languages, FrameWorks and Tools:<br>--------------------------------<br>Java Programming<br><br>Spring Boot, Spring MVC, Spring Core<br><br>Hibernate, JDBC<br><br>HTML, CSS,<br><br>MySQL
 
+🔭 I’m currently working on Hibernate, Spring boot<br><br>
+🌱 I’m currently learning j2EE Frameworks<br><br>
+💬 Ask me about Java<br><br>
+📫 How to reach me suguchingudi@gmail.com
+
+<br><br>Languages, FrameWorks and Tools:<br>-----------------------------------------<br>
+1. Java Programming<br><br>
+2. Spring Boot, Spring MVC, Spring Core<br><br>
+3. Hibernate, JDBC<br><br>
+4. HTML, CSS, React JS<br><br>
+5. MySQL<br><br>
+6. BootStrap<br><br>
+
+
+[![](https://visitcount.itsvg.in/api?id=sugu0312&icon=0&color=3)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/creative_kamsa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suguresh) 
@@ -27,6 +41,6 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sugu0312&icon=0&color=3)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
