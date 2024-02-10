@@ -1,4 +1,6 @@
 # 💫 About Me:
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 🔭 I’m currently working on Hibernate, Spring boot<br><br>🌱 I’m currently learning j2EE Frameworks<br><br>💬 Ask me about Java<br><br>📫 How to reach me suguchingudi@gmail.com<br><br>Languages, FrameWorks and Tools:<br>--------------------------------<br>Java Programming<br><br>Spring Boot, Spring MVC, Spring Core<br><br>Hibernate, JDBC<br><br>HTML, CSS,<br><br>MySQL
 
 
