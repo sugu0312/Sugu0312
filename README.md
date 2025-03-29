@@ -41,7 +41,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=sugu0312&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height:100;"/>
 
 ---
 
